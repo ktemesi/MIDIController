@@ -6,7 +6,7 @@ With this app you can control the parameters of the DAW. There are 4 faders and 
 The buttons send MIDI messages CC 20 - 23.
 The faders send MIDI messages CC 26 - 29.
 
-These messages can be mapped to any DAW parameters.
+These messages can be mapped to any DAW parameters (see your DAW's User's Manual).
 
 Installation
 
